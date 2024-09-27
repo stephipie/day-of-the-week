@@ -6,4 +6,5 @@ Imagine you are focused in your code but you need to know which day it is. How g
 
 ### How to run the script
 
-./show-me-the-date.she
+./show-me-the-date.sh
+
