@@ -1,7 +1,9 @@
-# wochentag-anzeig
 
-## this script will show you the weekday and date within the terminal
+## Get day of week inside the terminal
 
-### how to run the script
+Imagine you are focused in your code but you need to know which day it is. How great would it be to run a script and get the answer without leaving the terminal.
+
+
+### How to run the script
 
 ./show-me-the-date.she
